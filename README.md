@@ -113,10 +113,10 @@ When an instruction step is modified:
 
 ## 👨‍💼 About the Developer
 
-**Sagar Patel**  
-Digitalization & Automation Enthusiast | Power Platform Developer | Industrial Engineer  
+**Sagar Dhanani**  
+Digitalization & Automation Enthusiast | Power Platform Developer | Mechatonics Engineer  
 📍 Based in Germany & India  
-📫 [Your Email] | [LinkedIn Profile] | [Phone Number]
+📫 [sagardhanani5@gmail.com] | [www.linkedin.com/in/sagar-d-ab8b65179] 
 
 ---
 
